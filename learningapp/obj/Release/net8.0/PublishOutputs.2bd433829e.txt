@@ -1,0 +1,7 @@
+C:\azure course udemy\tmp\learningapp\bin\Publish\learningapp.exe
+C:\azure course udemy\tmp\learningapp\bin\Publish\appsettings.Development.json
+C:\azure course udemy\tmp\learningapp\bin\Publish\appsettings.json
+C:\azure course udemy\tmp\learningapp\bin\Publish\learningapp.dll
+C:\azure course udemy\tmp\learningapp\bin\Publish\learningapp.deps.json
+C:\azure course udemy\tmp\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\azure course udemy\tmp\learningapp\bin\Publish\learningapp.pdb
